@@ -1,0 +1,17 @@
+{
+  "name": "paypal-sdk-boilerplate",
+  "version": "1.0.0",
+  "description": "paypal API boilerplate",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node app.js"
+  },
+  "author": "Chris Stanton",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "2.5.7",
+    "express": "4.16.2",
+    "paypal-rest-sdk": "1.7.1"
+  }
+}
